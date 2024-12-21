@@ -33,6 +33,8 @@ Here are a few projects I've worked on:
 3. **Project Name**: A brief description of the project.
    - [Repository Link](https://github.com/Manikandan-E56/project-repo)
    - Key Technologies: Java, Spring Boot
+## LeetCode 
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=717822d128)
 
 ## GitHub Stats
 
