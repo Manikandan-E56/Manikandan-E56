@@ -7,15 +7,15 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - 🌱 I’m currently learning advanced algorithms and data structures.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- 📫 How to reach me: [Email](emanidon123@gmail.com) | [LinkedIn](linkedin.com/in/manikandan-e-manie)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## My Skills
 
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** React, Node.js, Django, Flask
-- **Tools:** Git, Docker, Kubernetes
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Languages:** JavaScript, Java, C++
+- **Frameworks:** React, Node.js, Rest Api
+- **Tools:** Git
+- **Databases:** MySQL, PostgreSQL
 - **Cloud Services:** AWS, Azure, Google Cloud
 
 ## My Projects
@@ -42,7 +42,7 @@ Here are a few projects I've worked on:
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Email](emanidon123@gmail.com)
+- [LinkedIn](linkedin.com/in/manikandan-e-manie)
 
 Thanks for visiting my profile!
