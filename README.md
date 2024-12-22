@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - **Frameworks:** React, Node.js, Rest Api
 - **Tools:** Git
 - **Databases:** MySQL, PostgreSQL
-- **Cloud Services:** AWS, Azure, Google Cloud
+
 
 ## My Projects
 
