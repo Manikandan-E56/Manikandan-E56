@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 - 🌱 I’m currently learning advanced algorithms and data structures.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Python, JavaScript, and web development.
+- 💬 Ask me about JavaScript, and web development.
 - 📫 How to reach me: [Email](emanidon123@gmail.com) | [LinkedIn](linkedin.com/in/manikandan-e-manie)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
