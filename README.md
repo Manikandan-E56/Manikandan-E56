@@ -44,7 +44,7 @@ Here are a few projects I've worked on:
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
-- [Email](emanidon123@gmail.com)
-- [LinkedIn](linkedin.com/in/manikandan-e-manie)
+  <a href="emanidon123@gmail.com">email</a>
+  <a href="linkedin.com/in/manikandan-e-manie">Linked in</a>
 
 Thanks for visiting my profile!
