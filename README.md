@@ -30,7 +30,7 @@ Here are a few projects I've worked on:
    - [Repository Link](https://github.com/Manikandan-E56/Food-Order-Frontend)
    - Key Technologies: React, Node.js
 
-3. **Project Name**: Rnadom-Chat.
+3. **Project Name**: Random-Chat.
    - [Repository Link](https://github.com/Manikandan-E56/Random-Chat)
    - Key Technologies: React, Node.js,MongoDB,
 ## LeetCode 
