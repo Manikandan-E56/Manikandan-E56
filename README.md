@@ -40,6 +40,8 @@ Here are a few projects I've worked on:
 
 ![Manikandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manikandan-E56&show_icons=true&theme=radical)
 
+<img src="https://skillicons.dev/icons?i=html,css,js,postman,react,nodejs,express,mysql,c,java,py,figma">
+
 ## Get In Touch
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
