@@ -31,7 +31,7 @@ Here are a few projects I've worked on:
    - Key Technologies: React, Node.js
 
 3. **Project Name**: Random-Chat.
-   - [Repository Link](https://github.com/Manikandan-E56/Random-Chat)
+   - [Repository Link](https://github.com/Manikandan-E56/RandomChat)
    - Key Technologies: React, Node.js,MongoDB,
 ## LeetCode 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=717822d128)
