@@ -22,17 +22,17 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 Here are a few projects I've worked on:
 
-1. **Project Name**: A brief description of the project.
-   - [Repository Link](https://github.com/Manikandan-E56/project-repo)
-   - Key Technologies: Python, Django
+1. **Project Name**: Portfolio.
+   - [Repository Link](https://github.com/Manikandan-E56/Manikandan-Portfolio)
+   - Key Technologies: React,Node.Js
 
-2. **Project Name**: A brief description of the project.
-   - [Repository Link](https://github.com/Manikandan-E56/project-repo)
+2. **Project Name**: Food-Order-Front.
+   - [Repository Link](https://github.com/Manikandan-E56/Food-Order-Frontend)
    - Key Technologies: React, Node.js
 
-3. **Project Name**: A brief description of the project.
-   - [Repository Link](https://github.com/Manikandan-E56/project-repo)
-   - Key Technologies: Java, Spring Boot
+3. **Project Name**: Rnadom-Chat.
+   - [Repository Link](https://github.com/Manikandan-E56/Random-Chat)
+   - Key Technologies: React, Node.js,MongoDB,
 ## LeetCode 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=717822d128)
 
